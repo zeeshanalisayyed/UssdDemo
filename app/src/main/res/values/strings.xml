@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UssdDemo</string>
+    <string name="accessibility_service_label">USSD Demo</string>
+    <string name="accessibility_service_description">zeeshan\'s accessibility service</string>
+    <string name="instructions"><![CDATA[This app will auto input "0" and click "Send" Button in USSD Alert Dialog(s). Please make one of your sim cards as default from the Sim Settings, so Call Button won\'t take you outside of the app to select sim cards! Also enable Accessibility Permission beforehand for this app by going to Settings > Additional Settings > Accessibility; This path may differ in your phone. Kill and restart the app if it doesn\'t work as expected even after enabling the permission.]]></string>
+</resources>
